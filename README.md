@@ -1,4 +1,13 @@
 #Mealy
+
+
+
+
+
+
+
+
+
 <img width="666" height="425" alt="Screenshot 2025-11-05 112610" src="https://github.com/user-attachments/assets/79401108-82f9-4307-95a9-ec69be9e942c" />
 
 
